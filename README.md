@@ -5,7 +5,7 @@ Oii! Eu sou a Sara Seibt
 - 🎯 Estou aprendendo Java e HTML
 - 📈 Gosto muito de aprender coisas novas
 - ⚡ Sou atleta corredora federada na AABLU atletismo
-- ✨ Sou dedicada em tudo que faço
+- ✨ Sou dedicada em tudo o que faço
 
 <h2 align="left">Stats</h2>
 
