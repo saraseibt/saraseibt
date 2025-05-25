@@ -14,11 +14,13 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Status</h2>
 
 ###
 
