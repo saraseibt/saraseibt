@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oii! Eu sou a Sara Seibt<br><br>🔭 Atualmente estou cursando Desenvolvimento de Sistemas<br>🌱 Estudo na Escola Sesi, no 3° ano do ensino médio<br>🎯 Estou aprendendo Java, HTML e CSS<br>📈 Gosto muito de aprender coisas novas<br>✨ Sou dedicada em tudo o que faço<br>⚡ Sou atleta corredora federada na Associação de Atletismo de Blumenau - AABLU</p>
+<p align="left">Oii! Eu sou a Sara Seibt<br><br>🔭 Atualmente estou cursando Desenvolvimento de Sistemas<br>🌱 Estudo na Escola Sesi, no 3° ano do ensino médio<br>🎯 Estou aprendendo Java, HTML, CSS, Banco de Dados e IOT<br>📈 Gosto muito de aprender coisas novas<br>✨ Sou dedicada em tudo o que faço<br>⚡ Sou atleta corredora federada na Associação de Atletismo de Blumenau - AABLU</p>
 
 ###
 
